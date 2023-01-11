@@ -9,6 +9,12 @@ If you are looking to become more independent from massive coorporations like Mi
 The answer is simple: Coorporations don't care about your privacy. They do not only exploit your data, by doing so, they exploit you directly.
 
 It's a basic human right to have privacy; Big Boys in the digital industry do not grant you that right.
+\
+\
+\
+**If you had a button which turns off spying, would you press it?**
+
+Chances are that you would press it; That's exactly what you are doing by installing this software and using these services. You are actively showing that you dislike any form of surveillance.
 # Operating Systems
 <details>
     <summary><font size=4>Desktop Operating System</font></summary>
