@@ -1,5 +1,7 @@
 # Operating Systems
-## Desktop
+<details>
+    <summary><font size=4>Desktop Operating System</font></summary>
+
 Instead of using *MacOS* or *Windows*, I highly suggest to use a *Linux* flavor. For ease of use [Linux Mint](https://linuxmint.com/) is probably best.
 1. Download the latest ISO [here](https://linuxmint.com/edition.php?id=302).
 2. Install [Rufus](https://rufus.ie/en/) to be able to "burn" ISO-images onto USB-drives.
@@ -10,54 +12,71 @@ Instead of using *MacOS* or *Windows*, I highly suggest to use a *Linux* flavor.
 7. With the USB-drive inserted, restart your computer and repeatedly press `DEL`. Then select your USB-drive to boot from.
 8. Follow the instructions on your screen.
 9. Done!
-## Mobile
+
+</details>
+
+<details>
+    <summary><font size=4>Mobile Operating System</font></summary>
+
 Instead of using *Android*, [GrapheneOS](https://grapheneos.org/) is focussed on privacy while still being based on Android. **It only has official support for Google Pixel smartphones.**
 
 Informations on how to install *GrapheneOS* are on their website.
+
+</details>
+
+
 # Open-Source Software Alternatives
 
-## Adobe Products
+<details>
+    <summary><font size=4>Adobe Products</font></summary>
 
 ### Premiere Pro
-* [Kdenlive](https://kdenlive.org/en/) | Windows/MacOS/Linux
-* [Shotcut](https://shotcut.org/) | Windows/MacOS/Linux
+* [Kdenlive](https://kdenlive.org/en/) | Windows / MacOS / Linux
+* [Shotcut](https://shotcut.org/) | Windows / MacOS / Linux
 
 ### After Effects
-* [Natron](https://natrongithub.github.io/) | Windows/MacOS/Linux
+* [Natron](https://natrongithub.github.io/) | Windows / MacOS / Linux
 
 ### Photoshop
-* [GIMP](https://www.gimp.org/) (Photo-editing) | Windows/MacOS/Linux
-* [Krita](https://krita.org/en/) (Digital drawing) | Windows/MacOS/Linux
+* [GIMP](https://www.gimp.org/) (Photo-editing) | Windows / MacOS / Linux
+* [Krita](https://krita.org/en/) (Digital drawing) | Windows / MacOS / Linux
 
 ### Lightroom
-* [Darktable](https://www.darktable.org/) | Windows/MacOS/Linux
+* [Darktable](https://www.darktable.org/) | Windows / MacOS / Linux
 
 ### Illustrator
-* [Inkscape](https://inkscape.org/) | Windows/MacOS/Linux
+* [Inkscape](https://inkscape.org/) | Windows / MacOS / Linux
 
 ### Animate
-* [Krita](https://krita.org/en/) | Windows/MacOS/Linux
-* [OpenToonz](https://opentoonz.github.io/e/) | Windows/MacOS/Linux
+* [Krita](https://krita.org/en/) | Windows / MacOS / Linux
+* [OpenToonz](https://opentoonz.github.io/e/) | Windows / MacOS / Linux
 
 ### Audition
-* [Audacity](https://www.audacityteam.org/) | Windows/MacOS/Linux
+* [Audacity](https://www.audacityteam.org/) | Windows / MacOS / Linux
+</details>
 
-## Browsers
+<details>
+    <summary><font size=4>Browsers</font></summary>
 
 ### Google Chrome / Opera GX
-* [Firefox](https://www.mozilla.org/en-US/firefox/new/) | Windows/MacOS/Linux | Android/iOS
-* [LibreWolf](https://librewolf.net/) (Privacy Oriented) | Windows/MacOS/Linux
-* [Brave](https://brave.com/) | Windows/MacOS/Linux  | Android/iOS
+* [Firefox](https://www.mozilla.org/en-US/firefox/new/) | Windows / MacOS / Linux | Android / iOS
+* [LibreWolf](https://librewolf.net/) (Privacy Oriented) | Windows / MacOS / Linux
+* [Brave](https://brave.com/) | Windows / MacOS / Linux  | Android / iOS
+</details>
 
-## Messengers
+<details>
+    <summary><font size=4>Messengers</font></summary>
 
 ### Discord
-* [WebCord](https://github.com/SpacingBat3/WebCord) | Windows/MacOS/Linux
+* [WebCord](https://github.com/SpacingBat3/WebCord) | Windows / MacOS / Linux
 
 ### WhatsApp
-* [Signal]() | Windows/MacOS/Linux | Android/iOS
+* [Signal]() | Windows/MacOS/Linux | Android / iOS
 
-## Others
+</details>
+
+<details>
+    <summary><font size=4>Others</font></summary>
 
 ### Google Photos / Gallery Apps
 * [Aves](https://github.com/deckerst/aves) | Android
@@ -69,7 +88,7 @@ Informations on how to install *GrapheneOS* are on their website.
 * [F-Droid](https://f-droid.org/) | Android
 
 ### Google Maps
-* [Organic Maps](https://organicmaps.app/) | Android/iOS
+* [Organic Maps](https://organicmaps.app/) | Android / iOS
 * [OpenStreetMap](https://www.openstreetmap.org/) | Web
 
 ### Note-taking Apps
@@ -85,18 +104,28 @@ Informations on how to install *GrapheneOS* are on their website.
 * [Simple Calendar](https://www.simplemobiletools.com/) | Android
 
 ### Spotify Desktop Client
-* [Psst](https://github.com/jpochyla/psst) | Windows/MacOS/Linux
+* [Psst](https://github.com/jpochyla/psst) | Windows / MacOS / Linux
+
+</details>
 
 # Privacy-friendly Website Alternatives
 
-## Search Engines
+<details>
+    <summary><font size=4>Search Engines</font></summary>
+
 * [Startpage](https://startpage.com)
 * [DuckDuckGo](https://duckduckgo.com)
 * [Brave Search](https://search.brave.com/)
 * [Ecosia](https://www.ecosia.org/)
 
-## E-Mail Providers
+</details>
+
+<details>
+    <summary><font size=4>E-Mail Providers</font></summary>
+
 * [Proton](https://proton.me/)
 * [Tutanota](https://tutanota.com/)
 * [StartMail](https://www.startmail.com)
 * [Librem](https://librem.one/)
+
+</details>
