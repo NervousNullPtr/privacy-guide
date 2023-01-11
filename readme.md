@@ -1,3 +1,9 @@
+# Introduction
+If you are looking to become more independent from massive coorporations like Microsoft, Adobe and Apple or just looking for more privacy?
+
+ If so, this guide is for you.
+ 
+ I do not claim that this guide is complete in any shape or form, it aims to be a quick guide on how to get more free (Free as in *freedom*, not as in *free beer*).
 # Operating Systems
 <details>
     <summary><font size=4>Desktop Operating System</font></summary>
