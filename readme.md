@@ -19,7 +19,7 @@ Chances are that you would press it; That's exactly what you are doing by instal
 <details>
     <summary><font size=4>Desktop Operating System</font></summary>
 
-Instead of using *MacOS* or *Windows*, I highly suggest to use a *Linux* flavor. For ease of use [Linux Mint](https://linuxmint.com/) is probably best.
+Instead of using *MacOS* or *Windows*, I highly suggest to use a *Linux* flavor. For ease of use [Linux Mint](https://linuxmint.com/) is probably best. Contrary to popular belief, Linux is not only for the tech-savvy, anyone can use it. To be completely honest, some Linux-flavours are even easier to use than MacOS or Windows; many tools provided aim to make your life easier.
 1. Download the latest ISO [here](https://linuxmint.com/edition.php?id=302).
 2. Install [Rufus](https://rufus.ie/en/) to be able to "burn" ISO-images onto USB-drives.
 3. Take a USB-drive, insert it and open Rufus.
