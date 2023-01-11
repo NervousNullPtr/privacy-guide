@@ -4,6 +4,11 @@ If you are looking to become more independent from massive coorporations like Mi
  If so, this guide is for you.
  
  I do not claim that this guide is complete in any shape or form, it aims to be a quick guide on how to get more free (Free as in *freedom*, not as in *free beer*).
+
+## Why?
+The answer is simple: Coorporations don't care about your privacy. They do not only exploit your data, by doing so, they exploit you directly.
+
+It's a basic human right to have privacy; Big Boys in the digital industry do not grant you that right.
 # Operating Systems
 <details>
     <summary><font size=4>Desktop Operating System</font></summary>
