@@ -20,6 +20,7 @@ Informations on how to install *GrapheneOS* are on their website.
 
 ### Premiere Pro
 * [Kdenlive](https://kdenlive.org/en/) | Windows/MacOS/Linux
+* [Shotcut](https://shotcut.org/) | Windows/MacOS/Linux
 
 ### After Effects
 * [Natron](https://natrongithub.github.io/) | Windows/MacOS/Linux
