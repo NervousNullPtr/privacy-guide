@@ -96,8 +96,13 @@ Informations on how to install *GrapheneOS* are on their website.
 <details>
     <summary><font size=4>Messengers</font></summary>
 
-### Discord
+### Discord as a Client
 * [WebCord](https://github.com/SpacingBat3/WebCord) | Windows / MacOS / Linux
+
+### Discord as a Service
+* [Matrix](https://matrix.org/) | Windows / MacOS / Linux | Android / iOS
+  * Possible clients for Matrix can be found [here](https://matrix.org/clients/).
+
 
 ### WhatsApp
 * [Signal](https://signal.org/) | Windows / MacOS / Linux | Android / iOS
@@ -131,6 +136,9 @@ Informations on how to install *GrapheneOS* are on their website.
   
 ### Calendar App
 * [Simple Calendar](https://www.simplemobiletools.com/) | Android
+
+### GBoard (Android Keyboard)
+* [FlorisBoard](https://github.com/florisboard/florisboard) | Android
 
 ### Spotify Desktop Client
 * [Psst](https://github.com/jpochyla/psst) | Windows / MacOS / Linux
