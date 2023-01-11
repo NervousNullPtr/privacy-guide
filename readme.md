@@ -73,6 +73,17 @@ Informations on how to install *GrapheneOS* are on their website.
 </details>
 
 <details>
+    <summary><font size=4>Office Suite & Mail Clients</font></summary>
+
+### Microsoft Office
+* [LibreOffice](https://www.libreoffice.org/) | Windows / MacOS / Linux | Android / iOS
+
+### WhatsApp
+* [Signal]() | Windows/MacOS/Linux | Android / iOS
+
+</details>
+
+<details>
     <summary><font size=4>Browsers</font></summary>
 
 ### Google Chrome / Opera GX
@@ -87,8 +98,9 @@ Informations on how to install *GrapheneOS* are on their website.
 ### Discord
 * [WebCord](https://github.com/SpacingBat3/WebCord) | Windows / MacOS / Linux
 
-### WhatsApp
-* [Signal]() | Windows/MacOS/Linux | Android / iOS
+### Mail Client
+* [KMail](https://apps.kde.org/kmail2/) | Linux
+* [Thunderbird](https://www.thunderbird.net/) | Windows / MacOS / Linux
 
 </details>
 
