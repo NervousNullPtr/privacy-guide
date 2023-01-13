@@ -71,7 +71,8 @@ Informations on how to install *GrapheneOS* are on their website.
 * [OpenToonz](https://opentoonz.github.io/e/) | Windows / MacOS / Linux
 
 ### Audition
-* [<span style="color:LimeGreen">Audacity</span>](https://www.audacityteam.org/) | Windows / MacOS / Linux
+* [<span style="color:LimeGreen">Tenacity</span>](https://tenacityaudio.org/) | Windows / MacOS / Linux
+* [Audacity](https://www.audacityteam.org/) | Windows / MacOS / Linux
 </details>
 
 <details>
