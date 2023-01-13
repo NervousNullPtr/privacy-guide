@@ -94,7 +94,7 @@ Informations on how to install *GrapheneOS* are on their website.
 
 ### Google Chrome / Opera GX
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) | Windows / MacOS / Linux | Android / iOS
-* [<span style="color:LimeGreen">LibreWol</span>](https://librewolf.net/) (Privacy Oriented) | Windows / MacOS / Linux
+* [<span style="color:LimeGreen">LibreWolf</span>](https://librewolf.net/) (Privacy Oriented) | Windows / MacOS / Linux
 * [Brave](https://brave.com/) | Windows / MacOS / Linux  | Android / iOS
 </details>
 
