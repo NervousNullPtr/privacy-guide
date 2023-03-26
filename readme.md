@@ -125,6 +125,7 @@ Informations on how to install *GrapheneOS* are on their website.
 * [Dolphin](https://binary-factory.kde.org/search/?q=dolphin&Jenkins-Crumb=bf65012065ffb7b66b993a9cf01b0bf54c688ad2eef31884f4dc53ebd6969b77bc3f6f1e3048185dbb710e83db45d7f3755634c7542d1ff83d1dbf30322e2a6f) | Windows / macOS / Linux
 * [Double Commander](https://doublecmd.sourceforge.io/) | Windows / macOS / Linux
 
+</details>
 
 <details>
     <summary><font size=4>Others</font></summary>
